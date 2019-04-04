@@ -8,6 +8,22 @@ I'm doing the project which topic is based on arbitrage and AI investing.
 
 
 classification:
+ 
+1.Investment strategy:Refer to books,videos,blogs about finance to write the strategy in python ,backtesting with real
+data(Taiwan stock)
+
+2.Financial Analysis:Corporation finance ,investment finance , risk management theorem implementation,according to the baseket stocks selected from top strategy.
+
+3.Financial data crawling:Crawl public data,including stocks,futures,financial statement...etc.
+
+4.Broker software develop:Refer to investment platform ,premium software to develop Python investment software.
+
+5.AI algo-trading:Save the model of LSTM.
+
+
+
+
+種類：
 
 1.投資策略撰寫：參考市面上投資書籍、影片、部落格的策略使用Python實作，並輔以真實資料回測。
 
